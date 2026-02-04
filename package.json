@@ -9,8 +9,8 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@tanstack/react-query": "^5.90.16",
-    "axios": "^1.13.2",
+    "@tanstack/react-query": "^5.90.20",
+    "axios": "^1.13.4",
     "formik": "^2.4.9",
     "next": "16.1.1",
     "react": "19.2.3",
@@ -20,13 +20,13 @@
     "yup": "^1.7.1"
   },
   "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^19",
+    "@types/node": "^20.19.31",
+    "@types/react": "^19.2.11",
     "@types/react-dom": "^19",
     "babel-plugin-react-compiler": "1.0.0",
     "eslint": "^9",
     "eslint-config-next": "16.1.1",
     "prettier": "^3.7.4",
-    "typescript": "^5"
+    "typescript": "^5.9.3"
   }
 }
